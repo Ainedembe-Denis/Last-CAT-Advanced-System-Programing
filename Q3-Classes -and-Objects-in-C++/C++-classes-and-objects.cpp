@@ -23,7 +23,7 @@ public:
         cout << "Name: " << name << endl;
         cout << "ID: " << id << endl;
         cout << "Marks: " << marks << endl;
-        cout << "-------------------" << endl;
+        cout << "------------------------" << endl;
     }
 };
 
